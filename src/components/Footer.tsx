@@ -33,7 +33,7 @@ export default function Footer() {
         </div>
         <div className="mt-8 md:mt-0 md:order-1">
           <p className="text-center text-base text-gray-400">
-            &copy; {new Date().getFullYear()} TypeMaster by Sultan.codes. All rights reserved.
+            &copy; {new Date().getFullYear()} TypeBoost by Sultan.codes. All rights reserved.
           </p>
         </div>
       </div>
