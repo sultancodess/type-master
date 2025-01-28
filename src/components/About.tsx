@@ -13,7 +13,7 @@ export default function About() {
               <Code className="h-12 w-12 text-purple-600 mx-auto mb-4" />
               <h3 className="text-xl font-semibold mb-2">Expert Development</h3>
               <p className="text-gray-600">
-                Built with modern web technologies to ensure a smooth and responsive typing experience.
+                Whether you're a beginner or a pro, TypeBoost adapts to your skill level and helps you become a typing master.
               </p>
             </div>
             
